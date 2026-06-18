@@ -4644,7 +4644,7 @@
                         children: [
                           {
                             label: "DexScreener",
-                            href: "https://dexscreener.com/BSC/0x5813740171a19D760B66F686A30BA85f7044E8E9",
+                            href: "https://dexscreener.com/bsc/0x5813740171a19D760B66F686A30BA85f7044E8E9",
                           },
                           {
                             label: "PancakeSwap",
@@ -8257,7 +8257,7 @@ The colony is waiting for the ones who caught the signal.`,
         id: "dexscreener",
         label: "DexScreener",
         sublabel: "CHART & TRADING",
-        href: "https://dexscreener.com/BSC/0x5813740171a19D760B66F686A30BA85f7044E8E9",
+        href: "https://dexscreener.com/bsc/0x5813740171a19D760B66F686A30BA85f7044E8E9",
         color: "#fbbf24",
         glow: "rgba(251,191,36,.2)",
         status: "live",
